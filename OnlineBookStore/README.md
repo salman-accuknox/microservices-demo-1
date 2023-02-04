@@ -7,7 +7,7 @@ This application uses Java for Back-End and database used is MySQL.
  This application works on any Kubernetes cluster, as well as Google
 Kubernetes Engine. It’s **easy to deploy**.
 
-If you’re using this demo, please **★Star** this repository.
+If you’re using this demo, please **★Star** this repository...
 
 ### Quickstart
 
