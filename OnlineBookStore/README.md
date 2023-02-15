@@ -18,7 +18,7 @@ git clone https://github.com/accuknox/microservices-demo.git
 cd microservices-demo/OnlineBookStore/
 ```
 
-2. **Create a namespace.**
+2. **Create a namespace.** ---
 
 
 
